@@ -1,0 +1,26 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.p_r_10 {
+  padding-right: 10px;
+}
+
+.m_r_10 {
+  margin-right: 10px;
+}
+
+.m_t_20 {
+  margin-top: 20px
+}
+
+.m_b_20 {
+  margin-bottom: 20px;
+}
+
+.grey_c {
+  color: #6c757d;
+}
